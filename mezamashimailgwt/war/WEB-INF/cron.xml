@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/cron/wakeup</url>
+    <description>check alarms</description>
+    <schedule>every 1 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+</cronentries>
